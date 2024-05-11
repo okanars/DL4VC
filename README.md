@@ -17,11 +17,10 @@ The project involves training and evaluating convolutional neural networks (CNNs
 To set up the project environment to run the experiments, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/your-github-username/deep-learning-visual-computing.git
+   ```bash git clone https://github.com/your-github-username/deep-learning-visual-computing.git```
 2. Install the required Python packages:
-   
-  pip install torch torchvision matplotlib
-  
+   ```bash -pip install torch torchvision matplotlib```
+
 ## Running the Code
 To execute the training and testing of the models, run the following command from the root directory of the project:
 python train_test_model.py
